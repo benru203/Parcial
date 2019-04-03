@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="create">Nuevo Estudiante</string>
+    <string name="Lists">Mostrar Estudiantes</string>
+    <string name="name_student">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="id_student">ID</string>
+    <string name="grade">Nota</string>
+    <string name="grades">Notas</string>
+    <string name="add_grade">Agregar</string>
+    <string name="add_student">Guardar</string>
+    <string name="error_data">Faltan algunos datos</string>
+    <string name="done">Guardado con éxito</string>
+
+    <string-array name="Menu">
+        <item>@string/create</item>
+        <item>@string/Lists</item>
+    </string-array>
+</resources>
